@@ -1,0 +1,11 @@
+
+
+• Experiment v:20220920_101116.20220920_101116 - Stardate:2022-09-20 10:11:19.946902
+	Prediction report of learning model.
+Holdout Performance: .
+auc=0.4365079365079365 - prauc=0.015625
+
+• Experiment v:20220920_101437.20220920_101437 - Stardate:2022-09-20 10:14:42.157705
+	Prediction report of learning model.
+Holdout Performance: .
+auc=0.4365079365079365 - prauc=0.015625
